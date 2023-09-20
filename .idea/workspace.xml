@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e4576bc-82d3-4445-89bf-e2847aab1013" name="変更" comment="えええ" />
+    <list default="true" id="4e4576bc-82d3-4445-89bf-e2847aab1013" name="変更" comment="mainぶらんちへ資材のアップロード" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentSearchFilters">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -110,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695139968607</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mainぶらんちへ資材のアップロード">
+      <created>1695189465838</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695189465838</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -139,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="一括アップロード" />
     <MESSAGE value="えええ" />
-    <option name="LAST_COMMIT_MESSAGE" value="えええ" />
+    <MESSAGE value="mainぶらんちへ資材のアップロード" />
+    <option name="LAST_COMMIT_MESSAGE" value="mainぶらんちへ資材のアップロード" />
   </component>
 </project>
